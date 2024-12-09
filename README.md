@@ -39,4 +39,4 @@ npx next build
 python3 -m http.server -d out
 ```
 
-ブラウザで `http://0.0.0.0:8000/` にアクセスすると、ビルドしたファイルが表示される。
+ブラウザで `http://localhost:8000/` にアクセスすると、ビルドしたファイルが表示される。
